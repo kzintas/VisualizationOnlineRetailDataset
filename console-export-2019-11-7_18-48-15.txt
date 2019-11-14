@@ -1,0 +1,23 @@
+The script from “http://127.0.0.1:5000/static/VizGoogleCharts.js” was loaded even though its MIME type (“text/plain”) is not a valid JavaScript MIME type. 127.0.0.1:5000
+Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead jquery.min.js:2:21
+Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user’s experience. For more help http://xhr.spec.whatwg.org/ jquery.js:8672:10
+string VizGoogleCharts.js:160:13
+Array(5942) [ {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, … ]
+VizGoogleCharts.js:163:17
+Object { count: "0.00", customerid: 13256 }
+VizGoogleCharts.js:164:17
+Array(5942) [ (2) […], (2) […], (2) […], (2) […], (2) […], (2) […], (2) […], (2) […], (2) […], (2) […], … ]
+VizGoogleCharts.js:166:17
+Array(5942) [ (2) […], (2) […], (2) […], (2) […], (2) […], (2) […], (2) […], (2) […], (2) […], (2) […], … ]
+VizGoogleCharts.js:169:17
+string VizGoogleCharts.js:193:13
+Array(3) [ {…}, {…}, {…} ]
+VizGoogleCharts.js:196:15
+Object { count: 45228, date: 2009 }
+VizGoogleCharts.js:197:15
+Array(3) [ (2) […], (2) […], (2) […] ]
+VizGoogleCharts.js:199:15
+Array(3) [ (2) […], (2) […], (2) […] ]
+VizGoogleCharts.js:202:15
+Object { ln: null, MF: "0.6", vg: (2) […], wg: (3) […], Wr: null, jc: [] }
+VizGoogleCharts.js:214:15

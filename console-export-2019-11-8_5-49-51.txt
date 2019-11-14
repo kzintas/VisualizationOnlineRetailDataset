@@ -1,0 +1,135 @@
+ Loaded data VizGoogleCharts.js:15:11
+Fri Nov 08 2019 05:03:59 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:16:11
+Loaded Month for [object Object] VizGoogleCharts.js:66:13
+Fri Nov 08 2019 05:04:06 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:67:13
+Exiting VizGoogleCharts.js:21:11
+Fri Nov 08 2019 05:07:20 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:22:11
+Navigated to http://127.0.0.1:5000/
+TypeError: document.getElementById(...) is null VizGoogleCharts.js:289:10
+    <anonymous> http://127.0.0.1:5000/static/VizGoogleCharts.js:289
+Loaded data VizGoogleCharts.js:15:11
+Fri Nov 08 2019 05:07:21 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:16:11
+Exiting VizGoogleCharts.js:21:11
+Fri Nov 08 2019 05:10:05 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:22:11
+Navigated to http://127.0.0.1:5000/
+TypeError: document.getElementById(...) is null VizGoogleCharts.js:289:12
+Loaded data VizGoogleCharts.js:15:11
+Fri Nov 08 2019 05:10:06 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:16:11
+Exiting VizGoogleCharts.js:21:11
+Fri Nov 08 2019 05:10:15 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:22:11
+Navigated to http://127.0.0.1:5000/
+TypeError: document.getElementById(...) is null VizGoogleCharts.js:289:12
+Loaded data VizGoogleCharts.js:15:11
+Fri Nov 08 2019 05:10:16 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:16:11
+Exiting VizGoogleCharts.js:21:11
+Fri Nov 08 2019 05:15:45 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:22:11
+Navigated to http://127.0.0.1:5000/
+TypeError: document.getElementById(...) is null VizGoogleCharts.js:289:12
+Loaded data VizGoogleCharts.js:15:11
+Fri Nov 08 2019 05:15:46 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:16:11
+Exiting VizGoogleCharts.js:21:11
+Fri Nov 08 2019 05:16:11 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:22:11
+Navigated to http://127.0.0.1:5000/
+TypeError: document.getElementById(...) is null VizGoogleCharts.js:289:12
+Loaded data VizGoogleCharts.js:15:11
+Fri Nov 08 2019 05:16:12 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:16:11
+Exiting VizGoogleCharts.js:21:11
+Fri Nov 08 2019 05:16:49 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:22:11
+Navigated to http://127.0.0.1:5000/
+TypeError: document.getElementById(...) is null VizGoogleCharts.js:289:12
+Loaded data VizGoogleCharts.js:15:11
+Fri Nov 08 2019 05:16:50 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:16:11
+Exiting VizGoogleCharts.js:21:11
+Fri Nov 08 2019 05:36:05 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:22:11
+Navigated to http://127.0.0.1:5000/
+TypeError: document.getElementById(...).mouseover is not a function VizGoogleCharts.js:289:40
+Loaded data VizGoogleCharts.js:15:11
+Fri Nov 08 2019 05:36:06 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:16:11
+Exiting VizGoogleCharts.js:21:11
+Fri Nov 08 2019 05:37:00 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:22:11
+Navigated to http://127.0.0.1:5000/
+TypeError: document.getElementById(...).onmouseover is not a function VizGoogleCharts.js:289:40
+Loaded data VizGoogleCharts.js:15:11
+Fri Nov 08 2019 05:37:01 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:16:11
+Exiting VizGoogleCharts.js:21:11
+Fri Nov 08 2019 05:37:19 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:22:11
+Navigated to http://127.0.0.1:5000/
+TypeError: document.getElementById(...).onmouseover is not a function VizGoogleCharts.js:289:40
+Loaded data VizGoogleCharts.js:15:11
+Fri Nov 08 2019 05:37:20 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:16:11
+Exiting VizGoogleCharts.js:21:11
+Fri Nov 08 2019 05:37:58 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:22:11
+Navigated to http://127.0.0.1:5000/
+1573209478806 VizGoogleCharts.js:290:11
+Loaded data VizGoogleCharts.js:15:11
+Fri Nov 08 2019 05:37:59 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:16:11
+1573209486592 VizGoogleCharts.js:290:11
+1573209501857 VizGoogleCharts.js:290:11
+1573209501924 VizGoogleCharts.js:290:11
+1573209501941 VizGoogleCharts.js:290:11
+1573209502090 VizGoogleCharts.js:290:11
+1573209502108 VizGoogleCharts.js:290:11
+1573209502142 VizGoogleCharts.js:290:11
+1573209502144 VizGoogleCharts.js:290:11
+1573209502992 VizGoogleCharts.js:290:11
+1573209503015 VizGoogleCharts.js:290:11
+1573209503017 VizGoogleCharts.js:290:11
+1573209503226 VizGoogleCharts.js:290:11
+1573209503245 VizGoogleCharts.js:290:11
+1573209508682 VizGoogleCharts.js:290:11
+1573209508798 VizGoogleCharts.js:290:11
+1573209508899 VizGoogleCharts.js:290:11
+1573209508932 VizGoogleCharts.js:290:11
+1573209508934 VizGoogleCharts.js:290:11
+1573209508950 VizGoogleCharts.js:290:11
+1573209508968 VizGoogleCharts.js:290:11
+1573209509365 VizGoogleCharts.js:290:11
+1573209509388 VizGoogleCharts.js:290:11
+1573209509390 VizGoogleCharts.js:290:11
+1573209509442 VizGoogleCharts.js:290:11
+1573209509467 VizGoogleCharts.js:290:11
+1573209509469 VizGoogleCharts.js:290:11
+1573209509499 VizGoogleCharts.js:290:11
+1573209509520 VizGoogleCharts.js:290:11
+1573209509522 VizGoogleCharts.js:290:11
+1573209509916 VizGoogleCharts.js:290:11
+1573209509936 VizGoogleCharts.js:290:11
+1573209509967 VizGoogleCharts.js:290:11
+1573209509968 VizGoogleCharts.js:290:11
+1573209509983 VizGoogleCharts.js:290:11
+1573209509995 VizGoogleCharts.js:290:11
+1573209510017 VizGoogleCharts.js:290:11
+1573209510018 VizGoogleCharts.js:290:11
+1573209510133 VizGoogleCharts.js:290:11
+1573209510152 VizGoogleCharts.js:290:11
+1573209510153 VizGoogleCharts.js:290:11
+1573209510210 VizGoogleCharts.js:290:11
+1573209510234 VizGoogleCharts.js:290:11
+1573209510236 VizGoogleCharts.js:290:11
+1573209517241 VizGoogleCharts.js:290:11
+1573209517257 VizGoogleCharts.js:290:11
+1573209550130 VizGoogleCharts.js:290:11
+1573209550144 VizGoogleCharts.js:290:11
+Exiting VizGoogleCharts.js:21:11
+Fri Nov 08 2019 05:49:12 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:22:11
+Navigated to http://127.0.0.1:5000/
+Mouseonhistogram,Fri Nov 08 2019 05:49:12 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:291:13
+Loaded data,Fri Nov 08 2019 05:49:13 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:15:11
+Mouseonhistogram,Fri Nov 08 2019 05:49:17 GMT-0500 (Eastern Standard Time) 7 VizGoogleCharts.js:291:13
+Mouseonhistogram,Fri Nov 08 2019 05:49:22 GMT-0500 (Eastern Standard Time) 2 VizGoogleCharts.js:291:13
+Mouseonhistogram,Fri Nov 08 2019 05:49:29 GMT-0500 (Eastern Standard Time) 3 VizGoogleCharts.js:291:13
+Mouseonhistogram,Fri Nov 08 2019 05:49:30 GMT-0500 (Eastern Standard Time) 8 VizGoogleCharts.js:291:13
+Mouseonhistogram,Fri Nov 08 2019 05:49:31 GMT-0500 (Eastern Standard Time) 7 VizGoogleCharts.js:291:13
+Mouseonline,Fri Nov 08 2019 05:49:32 GMT-0500 (Eastern Standard Time) 2 VizGoogleCharts.js:295:11
+Mouseonline,Fri Nov 08 2019 05:49:33 GMT-0500 (Eastern Standard Time) 8 VizGoogleCharts.js:295:11
+Mouseonline,Fri Nov 08 2019 05:49:34 GMT-0500 (Eastern Standard Time) 10 VizGoogleCharts.js:295:11
+Mouseonline,Fri Nov 08 2019 05:49:35 GMT-0500 (Eastern Standard Time) 3 VizGoogleCharts.js:295:11
+Mouseonline,Fri Nov 08 2019 05:49:36 GMT-0500 (Eastern Standard Time) 18 VizGoogleCharts.js:295:11
+Mouseonline,Fri Nov 08 2019 05:49:37 GMT-0500 (Eastern Standard Time) 6 VizGoogleCharts.js:295:11
+Mouseonline,Fri Nov 08 2019 05:49:38 GMT-0500 (Eastern Standard Time) 3 VizGoogleCharts.js:295:11
+Mouseonline,Fri Nov 08 2019 05:49:39 GMT-0500 (Eastern Standard Time) 8 VizGoogleCharts.js:295:11
+Mouseonline,Fri Nov 08 2019 05:49:41 GMT-0500 (Eastern Standard Time) 7 VizGoogleCharts.js:295:11
+Mouseonline,Fri Nov 08 2019 05:49:43 GMT-0500 (Eastern Standard Time) 2 VizGoogleCharts.js:295:11
+Mouseonline,Fri Nov 08 2019 05:49:44 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:295:11
+Mouseonhistogram,Fri Nov 08 2019 05:49:44 GMT-0500 (Eastern Standard Time) 2 VizGoogleCharts.js:291:13
+Mouseonhistogram,Fri Nov 08 2019 05:49:45 GMT-0500 (Eastern Standard Time) VizGoogleCharts.js:291:13
